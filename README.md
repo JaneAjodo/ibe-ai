@@ -91,7 +91,7 @@ User Query (POST /chat)
 ```bash
 # 1. Clone the repo
 git clone https://github.com/JaneAjodo/ibe-ai.git
-cd ibe-ai/part_2
+cd ibe-ai
 
 # 2. Set up environment
 cp .env.example .env
@@ -228,7 +228,6 @@ curl -X POST http://localhost:8000/chat \
 ## Project Structure
 
 ```
-part_2/
 ├── src/
 │   ├── main.py              # FastAPI app, middleware, routers
 │   ├── core/
