@@ -3,8 +3,8 @@
 ### *Wisdom, instantly.*
 
 ## Live Demo
-**API:** https://ibe-ai.onrender.com
-**Swagger Docs:** https://ibe-ai.onrender.com/docs
+**API:** https://ibe-ai-production.up.railway.app
+**Swagger Docs:** https://ibe-ai-production.up.railway.app/docs
 
 Ibe is a production-ready Agentic RAG API built with FastAPI and Google Gemini. Upload an Excel file of insurance policy data and ask questions in plain English — Ibe's agent decides how to answer using the right tool for every query. 
 
